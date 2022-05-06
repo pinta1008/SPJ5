@@ -1,0 +1,49 @@
+#itemi
+{
+margin: auto;
+  width: 500px;
+  height: 400px;
+  border: 10px solid yellow;
+}
+
+
+#item1 
+{ 
+    margin: auto;
+    margin-top: 20%;
+    border-style: solid;
+    width: 200px; 
+    height: 40px; 
+
+}
+#item2
+{ 
+    margin: auto;
+    border-style: solid;
+    width: 200px; 
+    height: 40px; 
+
+}
+#item3
+{ 
+    margin: auto;
+    border-style: solid;
+    width: 200px; 
+    height: 40px; 
+
+}
+#item4
+{ 
+    margin: auto;
+    border-style: solid;
+    width: 200px; 
+    height: 40px; 
+
+}
+
+p 
+{
+    text-align: center;
+    line-height: 10px;
+ 
+}
